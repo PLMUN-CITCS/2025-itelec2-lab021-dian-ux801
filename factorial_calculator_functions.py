@@ -2,6 +2,7 @@
 Factorial Calculator
 Handles user input and calculates factorial of a number.
 """
+
 def get_non_negative_integer() -> int:
     """Prompt user for a non-negative integer input with validation."""
     while True:
